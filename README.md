@@ -18,7 +18,7 @@
 - Python3 를 이용하여 만들어졌습니다. 
 
 ## 2. 제작자
-조우상 (woosang05@naver.com)
+- 조우상 (woosang05@naver.com)
 
 ## 3. 사용 방법
 - astropy 패키지 설치가 필요합니다. https://www.astropy.org/
