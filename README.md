@@ -3,7 +3,7 @@
 Radial velocity of PN calculator made of Python3.
 
 ## 0. Radial velocity(시선속도)
-**시선속도** 란 율리우스력의 기원전 4713년 1월 1일 월요일 정오(UTC 기준)를 기점으로 계산한 날짜 수입니다. 
+**시선속도** 란 
 
 ## 1. 제작 정보
 Python3 를 이용하여 만들어졌습니다. 
