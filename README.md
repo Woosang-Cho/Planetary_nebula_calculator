@@ -40,7 +40,7 @@ Python3 를 이용하여 만들어졌습니다.
 
 
 ## 4. 파일 구성
-Planetary_nebula_calculator 폴더 안 P\planetary_nebula_calculator.py 와 PN.py 라는 파일을 사용하시면 됩니다. 
+Planetary_nebula_calculator 폴더 안 radial velocity calculator.py 와 PN.py 라는 파일을 사용하시면 됩니다. 
 
 ## 5. 저작권 및 사용권 정보
 이 저작물은 MIT License를 따릅니다.     
