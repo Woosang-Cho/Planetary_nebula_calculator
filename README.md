@@ -9,7 +9,8 @@ Radial velocity of PN calculator made of Python3.
 
 별이나 빛이 나는 멀리 있는 물체의 시선속도는 고해상도 스펙트럼(high-resolution spectrum)을 실험실에서 측정돼 알고 있는 스펙트럼선의 파장과 비교해 직접적으로 측정할 수 있습니다. 관례적으로 양(+)의 시선속도는 물체가 멀어지고 있다는 것을 의미합니다. 만약 시선속도가 음(-)의 수라면 물체는 다가오고 있는 것입니다.
 
-https://www.researchgate.net/profile/Rolando_Cardenas/publication/337949705/figure/fig1/AS:836779494088705@1576515186052/Use-of-the-Doppler-effect-to-estimate-the-radial-velocity-of-a-star-as-seen-from-Earth.ppm
+![alt text](https://www.researchgate.net/profile/Rolando_Cardenas/publication/337949705/figure/fig1/AS:836779494088705@1576515186052/Use-of-the-Doppler-effect-to-estimate-the-radial-velocity-of-a-star-as-seen-from-Earth.ppm)
+
 
 많은 이중성에서, 궤도운동은 보통 수 km/s의 시선속도를 일으킵니다. 이런 별들의 스펙트럼은 도플러효과에 의해 변하기 때문에 이러한 이중성을 분광쌍성이라고 합니다. 시선속도의 연구를 통해 별의 질량과 이심률이나 궤도장반경과 같은 궤도요소를 추정할 수 있습니다. 이 방법은 또한 별주위의 행성을 발견하는데 사용되는데, 행성의 질량은 별에 비해 매우 작기 때문에 별을 아주 약간 움직이게 하고 이는 약간의 스펙트럼선의 변화로 나타납니다. 이 변화주기를 통해 행성의 공전주기를, 변화량을 통해 행성의 질량을 계산해 낼 수 있습니다. 
 
