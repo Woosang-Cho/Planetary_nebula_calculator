@@ -21,6 +21,8 @@ Python3 를 이용하여 만들어졌습니다.
 조우상 (woosang05@naver.com)
 
 ## 3. 사용 방법
+- astropy 패키지 설치가 필요합니다. https://www.astropy.org/
+
 #### radial velocity calculator.py
 - 21cm 전파를 보내는 행성상성운과 우리 은하 사이 상대적 속도를 계산합니다.
 
