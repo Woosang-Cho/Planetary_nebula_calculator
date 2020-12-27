@@ -21,13 +21,26 @@ Python3 를 이용하여 만들어졌습니다.
 조우상 (woosang05@naver.com)
 
 ## 3. 사용 방법
+#### radial velocity calculator.py
+- 21cm 전파를 보내는 행성상성운과 우리 은하 사이 상대적 속도를 계산합니다.
+
+1. 파일을 다운로드하여 실행합니다.
+2. 관측된 파장을 입력합니다.
+3. 결과가 출력됩니다. 
+
+#### PN.py 
+- 시선속도 V_r 에 대하여, 은경 l을 계산합니다.
+
 1. 파일을 다운로드 및 실행합니다.
+2. 은하중심--PN(planetary nebula) 거리를 입력합니다.
+3. planetary_nebula_calculator.py 에서 구한 시선속도(V_r) 를 입력합니다.
+4. 결과값이 소수점 3째 자리까지 출력됩니다. round() 함수를 조절하여 원하는 자리까지 추출할 수 있습니다.
 
 다운로드하여 위의 방법대로 사용하시면 됩니다. 
 
 
 ## 4. 파일 구성
-Planetary_nebula_calculator 폴더 안 Planetary_nebula_calculator.py 와 PN.py 라는 파일을 사용하시면 됩니다. 
+Planetary_nebula_calculator 폴더 안 P\planetary_nebula_calculator.py 와 PN.py 라는 파일을 사용하시면 됩니다. 
 
 ## 5. 저작권 및 사용권 정보
 이 저작물은 MIT License를 따릅니다.     
